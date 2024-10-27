@@ -1,0 +1,32 @@
+.ul{
+    color: rgb(58, 2, 58);
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 1rem;
+    background-color: wheat;
+    font-size: 20px;
+    text-decoration:none;
+    font-weight: 400;
+}
+
+.container{
+    background-color: #ff9999;
+    padding: 20px;
+    color: rgb(252, 248,248);
+    font-size: larger;
+    color: rgb(70, 2, 70);
+}
+.title{
+    color:rgb(121, 15, 15);
+    font-size: 2rem;
+    background-color: teal;
+    border: seashell;
+    border-radius: 5px;
+    text-align: center;
+    font-family:initial;
+    padding: 8px;
+}
+.h1{
+    padding: 80px;
+}
